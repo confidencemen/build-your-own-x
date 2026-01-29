@@ -1,5 +1,9 @@
 # build-your-own -x
 
+新手（编程不到1年）： 先做命令行工具，熟悉语言特性；再试试HTTP服务器，理解网络基础
+有点经验（1-3年）： 可以挑战Git核心功能、Shell解释器、简易数据库这类项目
+老手（3年以上）： 直接上Docker容器、编程语言编译器、操作系统内核
+
 ## C++ : Write your own Operating System
 
 ### 教程
